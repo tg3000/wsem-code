@@ -1,0 +1,31 @@
+[
+{
+    "topic" : "Biologie",
+    "question" : "What is the powerhouse of a cell?",
+    "answer" : "Mitochondria are the powerhouse of the cell, generating most of the chemical energy needed to power the cell's biochemical reactions."
+}, 
+{
+    "topic" : "Physik",
+    "question" : "What force keeps us from floating away?",
+    "answer" : "Gravity is the invisible force of attraction between any two objects that have mass."
+}, 
+{   
+    "topic": "Informatik",
+    "question": "What is the purpose of an index in a database?",
+    "answer": "An index acts like a book's index, speeding up data retrieval without scanning every row in a table."
+},
+{
+    "topic": "Chemie",
+    "question": "Why does ice float on liquid water?",
+    "answer": "Water molecules expand into a rigid crystalline lattice when freezing, making ice less dense than liquid water."
+},
+{
+    "topic": "Mathematik",
+    "question": "What makes a number prime?",
+    "answer": "A prime number is an integer greater than 1 that cannot be formed by multiplying two smaller positive integers."
+},
+{
+    "topic": "Geographie",
+    "question": "What causes ocean tides?",
+    "answer": "The gravitational pull of the Moon and the Sun pulls ocean water toward them, creating rhythmic high and low tides."
+}]

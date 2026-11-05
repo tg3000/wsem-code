@@ -1,0 +1,7 @@
+fhe_code/build
+fhe_code/openfhe-development
+.DS_Store
+rag_code/__pycache__/
+rag_code/.ipynb_checkpoints/
+rag_code/.venv/
+rag_code/.vscode/
